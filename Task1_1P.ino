@@ -1,4 +1,4 @@
-v// Pin Definitions
+// Pin Definitions
 const int ledPin = 13; // LED pin
 const int buttonPin = 2; // Push button pin
 
