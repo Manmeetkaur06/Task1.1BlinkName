@@ -4,7 +4,7 @@ const int buttonPin = 2; // Push button pin
 
 // Morse Code Timing Definitions
 const int dotTime = 200; // Duration of a dot
-const int dashTime = dotTime * 4; // Duration of a dash
+const int dashTime = dotTime * 3; // Duration of a dash
 const int letterSpace = dotTime * 3; // Space between letters
 const int wordSpace = dotTime * 7; // Space between words
 
